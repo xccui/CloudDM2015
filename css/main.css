@@ -1,0 +1,21 @@
+body{
+		margin:auto;
+		font-family: Verdana, Tahoma, Arial, sans-serif;
+		overflow-y:scroll;
+}
+a{
+	font-size:.9em;
+	text-decoration: none;
+	color: #6699CC;
+}
+ul{
+	margin-top:5px;
+	list-style-type:circle;
+}
+
+a:visited.tbb {
+color: #CCC;
+}
+a.tbb {
+color: #CCC;
+}
